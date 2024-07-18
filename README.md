@@ -1,8 +1,8 @@
-# React + Vite
+Este projeto recebe uma lista (JSON) de pessoas, lista suas funções dentro de determinada empresa e destaca os colaboradores menores de idade. Útil para documentos, termos de contrato e cuidados jurídicos ao lidar com pessoas que ainda não atingiram a maioridade.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Uso:
+- Clone este repositório.
+- Instale as dependências: npm install.
+- Receba a lista de pessoas via API ou insira manualmente.
+- Passe como props para o componente.
+- Inicie a aplicação com NPM RUN DEV.
